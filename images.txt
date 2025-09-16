@@ -1,2 +1,2 @@
 alpine
-justsong/one-api
+justsong/one-api-arm64
